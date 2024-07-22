@@ -1,0 +1,6 @@
+transaction_id,amount,currency,platform,date,status
+1,100,USD,PayPal,2023-01-01,completed
+2,200,EUR,Stripe,2023-01-02,failed
+3,150,USD,PayPal,2023-01-03,completed
+4,300,GBP,Stripe,2023-01-04,completed
+5,250,USD,Square,2023-01-05,pending
